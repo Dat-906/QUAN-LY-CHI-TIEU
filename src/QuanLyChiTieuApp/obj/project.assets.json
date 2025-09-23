@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Acer\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Máy tính\\CSLT\\BT2\\QUAN-LY-CHI-TIEU\\src\\QuanLyChiTieuApp\\QuanLyChiTieuApp.csproj",
+      "projectUniqueName": "D:\\App cho lập trình\\QUAN-LY-CHI-TIEU\\src\\QuanLyChiTieuApp\\QuanLyChiTieuApp.csproj",
       "projectName": "QuanLyChiTieuApp",
-      "projectPath": "C:\\Users\\Acer\\OneDrive\\Máy tính\\CSLT\\BT2\\QUAN-LY-CHI-TIEU\\src\\QuanLyChiTieuApp\\QuanLyChiTieuApp.csproj",
-      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\OneDrive\\Máy tính\\CSLT\\BT2\\QUAN-LY-CHI-TIEU\\src\\QuanLyChiTieuApp\\obj\\",
+      "projectPath": "D:\\App cho lập trình\\QUAN-LY-CHI-TIEU\\src\\QuanLyChiTieuApp\\QuanLyChiTieuApp.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "D:\\App cho lập trình\\QUAN-LY-CHI-TIEU\\src\\QuanLyChiTieuApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
